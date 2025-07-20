@@ -1,1 +1,1 @@
-Include both client and server files
+ both client and server files
